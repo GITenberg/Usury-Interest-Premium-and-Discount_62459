@@ -1,11 +1,16 @@
 _repo: Usury-Interest-Premium-and-Discount_62459
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62459-h/images/cover.jpg
 creator:
   author:
     agent_name: Crittenden, S. H.
     gutenberg_agent_id: '51951'
     url: http://www.gutenberg.org/2009/agents/51951
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62459#Usury-Interest-Premium-and-Discount
 gutenberg_issued: '2020-06-23'
 gutenberg_type: Text
 identifiers:
